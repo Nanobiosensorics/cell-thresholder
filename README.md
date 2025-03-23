@@ -64,7 +64,7 @@
    python app.py
    ```
 
-Alternatively, you can download the precompiled executable for your platform from the Releases page and run it directly without needing to install Python or dependencies.
+Alternatively, you can download the precompiled executable for windows from [here](https://drive.google.com/file/d/1mQ9FRDyqS9TUO4o6hqwR0C4Ky5FDN37o/view?usp=drive_link) and run it directly without needing to install Python or dependencies.
 
 ## Requirements
 
